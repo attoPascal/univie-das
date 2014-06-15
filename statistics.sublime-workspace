@@ -1,0 +1,670 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"if",
+				"if	If Condition"
+			],
+			[
+				"csv",
+				"csvfile"
+			],
+			[
+				"N",
+				"NUMSTICHPROBEN"
+			],
+			[
+				"gg",
+				"ggcopy"
+			],
+			[
+				"in",
+				"ifmain	if __name__ == '__main__'"
+			],
+			[
+				"for",
+				"for	for (…) {…}"
+			],
+			[
+				"app",
+				"appendTo	.appendTo()"
+			],
+			[
+				"p",
+				"pl	println"
+			],
+			[
+				"m",
+				"main	method (main)"
+			],
+			[
+				"hh",
+				"hh_groesse"
+			],
+			[
+				"h",
+				"hh_einkommen"
+			],
+			[
+				"r",
+				"randrange"
+			],
+			[
+				"hv",
+				"hv_geschlecht"
+			],
+			[
+				"def",
+				"defenders"
+			],
+			[
+				"the_",
+				"the_defense"
+			],
+			[
+				"w",
+				"write"
+			],
+			[
+				"v",
+				"void"
+			],
+			[
+				"f",
+				"for	For Loop"
+			],
+			[
+				"len",
+				"length"
+			],
+			[
+				"USERS_",
+				"USERS_SEQ"
+			],
+			[
+				"po",
+				"postfixAusdruck"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "statistics.py",
+			"settings":
+			{
+				"buffer_size": 212,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"pa",
+				"Package Control: Remove Package"
+			],
+			[
+				"mar",
+				"Set Syntax: Markdown"
+			],
+			[
+				"ja",
+				"Set Syntax: Java"
+			],
+			[
+				"jav",
+				"Set Syntax: Java"
+			],
+			[
+				"upp",
+				"Convert Case: Upper Case"
+			],
+			[
+				"p3",
+				"Set Syntax: Python 3"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"packag",
+				"Package Control: Remove Package"
+			],
+			[
+				"sublimelinter",
+				"SublimeLinter: Lint This View"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"install ",
+				"Package Control: Install Package"
+			],
+			[
+				"low",
+				"Convert Case: Lower Case"
+			],
+			[
+				"py",
+				"Set Syntax: Python"
+			],
+			[
+				"sn",
+				"Snippet: if __name__ == '__main__'"
+			],
+			[
+				"comm",
+				"Toggle Block Comment"
+			],
+			[
+				"proj",
+				"Project: Save As"
+			],
+			[
+				"pack",
+				"Package Control: Remove Package"
+			],
+			[
+				"buil",
+				"Build: Build"
+			],
+			[
+				"py3",
+				"Set Syntax: Python 3"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Upgrade/Overwrite All Packages"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"mark",
+				"Set Syntax: Markdown"
+			],
+			[
+				"tabs",
+				"View: Toggle Tabs"
+			],
+			[
+				"view",
+				"View: Toggle Tabs"
+			],
+			[
+				"insa",
+				"Package Control: Install Package"
+			],
+			[
+				"packa",
+				"Package Control: List Packages"
+			],
+			[
+				"pyt",
+				"Set Syntax: Python"
+			],
+			[
+				"html",
+				"Set Syntax: HTML"
+			],
+			[
+				"snipp",
+				"Snippet: class"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"css",
+				"Set Syntax: CSS"
+			],
+			[
+				"ssjs",
+				"Set Syntax: Java Server Page (JSP)"
+			]
+		],
+		"width": 467.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/pascal/Dropbox/Uni/Informatik/DAS/UE/Blatt8/statistics.py",
+		"/Users/pascal/Dropbox/Uni/Informatik/DAS/UE/Blatt8/test1.py",
+		"/Users/pascal/Dropbox/Uni/Publizistik/MUME/statistics.py",
+		"/Users/pascal/Dropbox/Uni/Publizistik/MUME/artikel.md",
+		"/Users/pascal/Dropbox/Uni/Informatik/ITM/ITM FB/ITM Prüfungsfragen - 1. Termin Juni2013.txt",
+		"/Users/pascal/Dropbox/Uni/Informatik/ITM/ITM FB/Speicherbedarf von WAV-Files.txt",
+		"/Users/pascal/Dropbox/Uni/Informatik/ITM/ITM FB/Speicherbedarf von Bildern.txt",
+		"/Users/pascal/Dropbox/Uni/Informatik/ITM/ITM FB/ITM - Alte Prüfungsfragen.txt",
+		"/Users/pascal/Dropbox/Uni/Informatik/HCI/Projekt/doc/Meilenstein 4/Appendix/ttest-zufriedenheit.r",
+		"/Users/pascal/Dropbox/Uni/Informatik/HCI/ms4-frageboegen/daten.csv",
+		"/Users/pascal/Desktop/gfd.html",
+		"/Users/pascal/Dropbox/Uni/Informatik/DAS/UE/Blatt2/Aufgabe1/a1.r",
+		"/Users/pascal/Documents/workspace/SWA/src/main/resources/webapp/index.jsp",
+		"/Users/pascal/Documents/workspace/SWA/target/classes/webapp/index.jsp",
+		"/Users/pascal/Documents/workspace/SWA/target/classes/webapp/foo.jsp",
+		"/Users/pascal/Desktop/Postbank.html",
+		"/Users/pascal/Dropbox/Uni/Informatik/HCI/Meilenstein2/plan/login.php",
+		"/Users/pascal/Dropbox/Uni/Informatik/HCI/Meilenstein2/plan/index.php",
+		"/Users/pascal/Dropbox/Uni/Informatik/HCI/Meilenstein2/plan/modul.php",
+		"/Users/pascal/Desktop/unet-html/hjk/plan/index.php",
+		"/Users/pascal/Dropbox/Uni/Informatik/HCI/Meilenstein2/plan/logincheck.php",
+		"/Users/pascal/Dropbox/Uni/Informatik/HCI/Meilenstein2/plan/logout.php",
+		"/Users/pascal/Dropbox/Uni/Informatik/HCI/Meilenstein2/ecurriculum/bachelor/aufbau.php",
+		"/Users/pascal/Dropbox/Uni/Informatik/DAS/UE/Blatt1/Aufgabe3/generate-csv.py",
+		"/Users/pascal/Dropbox/Uni/Informatik/DAS/UE/Blatt5/Aufgabe6/a6.r",
+		"/Users/pascal/Dropbox/Uni/Informatik/DAS/UE/Blatt5/Aufgabe5/generate.py",
+		"/Users/pascal/Dropbox/Uni/Informatik/DAS/UE/Blatt4/Aufgabe8/a8.r",
+		"/Users/pascal/Documents/hci/plan/logincheck.php",
+		"/Users/pascal/Documents/hci/plan/modul.php",
+		"/Users/pascal/Documents/hci/plan/logout.php",
+		"/Users/pascal/Desktop/unet-html/ftt/index.php",
+		"/Users/pascal/Desktop/unet-html/ftt/js/scripts.js",
+		"/Users/pascal/Desktop/unet-html/mume/index.html",
+		"/Users/pascal/Desktop/unet-html/ftt/moviequation.php",
+		"/Users/pascal/Documents/hci/css/ecurriculum.css",
+		"/Users/pascal/Downloads/comic-neue-1.1/font.css",
+		"/Users/pascal/python/curl.py",
+		"/Users/pascal/Documents/workspace/ITM1/build.xml",
+		"/Users/pascal/Documents/workspace/ITM1/ant.bat",
+		"/Users/pascal/Dropbox/Uni/Informatik/DAS/VO/R-Scripts/01 Erste Schritte mit R.r",
+		"/Users/pascal/Dropbox/Uni/Informatik/DAS/UE/Blatt3/Aufgabe1/generate-csv.py",
+		"/Users/pascal/Dropbox/Uni/Informatik/DAS/UE/Blatt3/Aufgabe1/a1.r",
+		"/Users/pascal/Dropbox/Uni/Informatik/DAS/UE/Blatt3/Aufgabe2/a2.txt",
+		"/Users/pascal/Dropbox/Uni/Informatik/DAS/UE/Blatt3/Aufgabe4/a4.txt",
+		"/Users/pascal/Dropbox/Uni/Informatik/DAS/UE/Blatt3/Aufgabe5/a5.txt",
+		"/Users/pascal/Desktop/Quio.java",
+		"/Users/pascal/Dropbox/Uni/Informatik/DAS/UE/Blatt2/Aufgabe7/haar-transform.txt",
+		"/Users/pascal/Dropbox/Uni/Informatik/DAS/UE/Blatt2/Aufgabe7/HaarT.txt",
+		"/Users/pascal/Dropbox/Uni/Informatik/DAS/UE/Blatt2/Aufgabe7/strudium-transform.txt",
+		"/Users/pascal/Dropbox/Uni/Informatik/DAS/UE/Blatt2/Aufgabe6/a6.txt",
+		"/Users/pascal/Dropbox/Uni/Informatik/DAS/UE/Blatt2/Aufgabe5/a5.r",
+		"/Users/pascal/Dropbox/Uni/Informatik/DAS/UE/Blatt2/Aufgabe5/bakterien.csv",
+		"/Users/pascal/Dropbox/Uni/Informatik/DAS/UE/Blatt2/Aufgabe3/binomialkoeffizient.py",
+		"/Users/pascal/Dropbox/Uni/Informatik/DAS/UE/Blatt2/Aufgabe3/pseudocode.txt",
+		"/Users/pascal/Dropbox/Uni/Informatik/DAS/UE/Blatt1/Aufgabe8/a8.r",
+		"/Users/pascal/Dropbox/Uni/Informatik/DAS/UE/Blatt1/Aufgabe8/a8.txt",
+		"/Users/pascal/Dropbox/Uni/Informatik/DAS/UE/Blatt1/Aufgabe9/a9.txt",
+		"/Users/pascal/Dropbox/Uni/Informatik/DAS/UE/Blatt1/Aufgabe9/data.csv",
+		"/Users/pascal/Dropbox/Uni/Informatik/DAS/UE/Blatt1/Aufgabe10/a10.r",
+		"/Users/pascal/Dropbox/Uni/Informatik/DAS/UE/Blatt1/Aufgabe10/a10.txt",
+		"/Users/pascal/Dropbox/Uni/Informatik/DAS/UE/Blatt1/Aufgabe10/generate-csv.py",
+		"/Users/pascal/Dropbox/Uni/Informatik/DAS/UE/Blatt1/Aufgabe7/generate-csv.py",
+		"/Users/pascal/Dropbox/Uni/Informatik/DAS/VO/R-Scripts/02 Tabellen und Graphiken.r",
+		"/Users/pascal/Dropbox/Uni/Informatik/DAS/UE/Blatt1/Aufgabe7/a7.txt",
+		"/Users/pascal/Dropbox/Uni/Informatik/DAS/UE/Blatt1/Aufgabe7/data.csv",
+		"/Users/pascal/Dropbox/Uni/Informatik/DAS/UE/Blatt1/Aufgabe3/data.csv",
+		"/Users/pascal/Dropbox/Uni/Informatik/DAS/UE/Blatt1/Aufgabe3/a3.r",
+		"/Users/pascal/Dropbox/Uni/Informatik/DAS/UE/Blatt1/Aufgabe5/data.csv",
+		"/Users/pascal/Dropbox/Uni/Informatik/DAS/UE/Blatt1/Aufgabe1/a1.txt",
+		"/Users/pascal/Dropbox/Uni/Informatik/DAS/UE/Blatt1/Aufgabe5/generate-csv.py",
+		"/Users/pascal/Dropbox/Uni/Informatik/DAS/UE/Blatt1/Aufgabe5/a5.r",
+		"/Users/pascal/Downloads/01 Erste Schritte mit R.r",
+		"/Users/pascal/python/emoji.py",
+		"/Users/pascal/python/fizzbuzz.py",
+		"/Users/pascal/Documents/python/risk-simulator/riskstrategy.py",
+		"/Users/pascal/Documents/python/risk-simulator/riskstats.py",
+		"/Users/pascal/Documents/python/risk-simulator/README.md",
+		"/Users/pascal/Desktop/unet-html/petermachtprobleme/login.html",
+		"/Users/pascal/Documents/python/risk/risikostat2.py",
+		"/Users/pascal/Documents/python/risk/riskstrategy.py",
+		"/Users/pascal/Documents/python/risk/riskstats.py",
+		"/Users/pascal/Documents/python/risk/risk.py",
+		"/Users/pascal/Desktop/almighty/swe2013/Abgabe1/swe2013/um/um2.java",
+		"/Users/pascal/Desktop/almighty.command",
+		"/Users/pascal/Desktop/unet.command",
+		"/Users/pascal/Downloads/ExtHash.h",
+		"/Users/pascal/Library/Application Support/Sublime Text 3/Packages/User/SublimeLinter.sublime-settings",
+		"/Users/pascal/Library/Application Support/Sublime Text 3/Packages/SublimeLinter/SublimeLinter.sublime-settings",
+		"/private/etc/shells",
+		"/Applications/sshfs/uninstall.sh",
+		"/Users/pascal/Documents/lpthw/Newton.java",
+		"/Users/pascal/Documents/lpthw/newton.py",
+		"/Users/pascal/Downloads/impressivewebs-HTML9-Responsive-Boilerstrap-js-98c58d0/js/html9responsiveboilerstrap.js",
+		"/Users/pascal/Documents/lpthw/test.py",
+		"/Users/pascal/Documents/lpthw/oop_test.py",
+		"/Users/pascal/Documents/lpthw/quii.py",
+		"/Users/pascal/Documents/lpthw/lpthw.sublime-workspace",
+		"/Users/pascal/Documents/lpthw/fgg.py",
+		"/Users/pascal/Library/Application Support/Sublime Text 3/Packages/AdvancedNewFile/README.md",
+		"/Users/pascal/Library/Application Support/Sublime Text 3/Packages/AdvancedNewFile/AdvancedNewFile.sublime-settings",
+		"/Users/pascal/hsqlprefs.dat",
+		"/Users/pascal/log/log.out",
+		"/Users/pascal/Test.java",
+		"/Users/pascal/test.py",
+		"/Users/pascal/Library/Application Support/Sublime Text 3/Packages/User/Python.sublime-settings",
+		"/Users/pascal/Library/Application Support/Sublime Text 3/Packages/User/Plain text.sublime-settings",
+		"/Users/pascal/Desktop/proj/Test.java",
+		"/Users/pascal/Dropbox/Uni/Informatik/NTM/UE/Blatt3/repy/client2.repy",
+		"/Users/pascal/Desktop/test.py",
+		"/Users/pascal/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/pascal/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/Users/pascal/Desktop/lupin.html",
+		"/Users/pascal/Dropbox/Uni/Informatik/DBS/UE/Projekt/meilenstein5.zip",
+		"/Users/pascal/Dropbox/Uni/Informatik/DBS/UE/Projekt/meilenstein5/1200595_ATTWENGER_drop.sql",
+		"/Users/pascal/Library/Application Support/Sublime Text 3/Packages/User/Distraction Free.sublime-settings",
+		"/Users/pascal/Dropbox/Uni/Informatik/NTM/UE/Blatt3/repy/client1.repy",
+		"/Users/pascal/Desktop/unet-html/lsf/index.html",
+		"/Users/pascal/Dropbox/Uni/Informatik/NTM/UE/Blatt3/repy/client3.repy",
+		"/Users/pascal/Dropbox/Uni/Informatik/NTM/UE/Blatt3/repy/server3.repy",
+		"/Users/pascal/Dropbox/Uni/Informatik/NTM/UE/Blatt3/repy/server2.repy",
+		"/Users/pascal/Dropbox/Uni/Informatik/NTM/UE/Blatt2/examples/example.1.2.repy",
+		"/Users/pascal/Dropbox/Uni/Semester früher/Informatik/2013S/NET/Praktikum/Blatt 2/Aufgabe 3/server.py",
+		"/Users/pascal/Dropbox/Uni/Informatik/NTM/UE/Blatt3/repy/reliable_client.repy",
+		"/Users/pascal/Documents/workspace/LittleSharkyFish/WebContent/allekategorien.jsp",
+		"/Users/pascal/Dropbox/Uni/Informatik/DBS/UE/Projekt/meilenstein3.sql",
+		"/Users/pascal/Documents/workspace/LittleSharkyFish/WebContent/buchungstest.jsp",
+		"/Library/StartupItems/ChmodBPF/README.macosx",
+		"/var/folders/1n/6j24xh8j27j0ym72bc0pl_5h0000gn/T/com.apple.iChat/Messages/Transfers/RekursiveF-3.java"
+	],
+	"find":
+	{
+		"height": 25.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"numImages",
+			"'",
+			"\"",
+			"../media",
+			"mitelbraun",
+			"lila",
+			"variabel",
+			"rotgruen",
+			"dunkelviolett",
+			"blau",
+			"weiss",
+			"schwarzbraun",
+			"rotbraun",
+			"mittelbraun",
+			"hellbraun",
+			"graubraun",
+			"dunkel",
+			"dunkelbraun",
+			"bruenett",
+			"Braun",
+			"blondbruenett",
+			"blondbraun",
+			"zurzeitrot",
+			"roetlich",
+			"Schwarz",
+			"rotblond",
+			"braunschwarz",
+			"blauschwarz",
+			"braunblond",
+			"bold",
+			"Blond",
+			"bissalblond",
+			"dunkelblond",
+			"mittelblond",
+			" ",
+			"blond (nicht echt)",
+			"	",
+			"\\leftarrow",
+			"<-",
+			"spamwriter",
+			"spe.leoben.at",
+			"probability",
+			"winning_units",
+			"WINNING_UNITS",
+			"defender_units",
+			"meine_einheiten",
+			"wahrscheinlichkeit",
+			"gewinnen_mit",
+			"einheiten_gegner",
+			"angreifer_wins",
+			"verteidiger_wins",
+			"angreifer_wins",
+			"ANGREIFER_EINHEITEN",
+			"verteidigung",
+			"angriff",
+			"defender",
+			"Defender",
+			"defender",
+			"attacker",
+			"Attacker",
+			"attacker",
+			"verteidiger",
+			"Verteidiger",
+			"verteidiger",
+			"Verteidiger",
+			"verteidiger",
+			"Verteidiger",
+			"verteidiger",
+			"angreifer",
+			"Angreifer",
+			"angreifer",
+			"Angreifer",
+			"angreifer",
+			"Angreifer",
+			"angreifer",
+			"verteidigen",
+			"wurf",
+			"Einheiten",
+			"einheiten",
+			"Einheiten",
+			"einheiten",
+			"angreifen",
+			"wuerfeln",
+			"DEFAULTB",
+			"num",
+			"FILE",
+			"x",
+			"my_",
+			"my",
+			"my_",
+			"line",
+			"insertUsers",
+			"inse",
+			"ins",
+			"query",
+			"prepStmt",
+			" use",
+			"user",
+			"USER",
+			"user",
+			"ADDED",
+			"random"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"num",
+			"\"",
+			"'",
+			"media",
+			"braun",
+			"andere",
+			"grau",
+			"braun",
+			"rot",
+			"schwarz",
+			"blond",
+			"schwarz",
+			"blond",
+			"",
+			"blond",
+			",",
+			"<-",
+			"->",
+			"wordpress.jocks.at"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "statistics.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 212,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"SideBarAutoAddFoldersForOpenedFiles": 1,
+							"syntax": "Packages/Python 3/Python3.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 25.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 162.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "statistics.sublime-project",
+	"replace":
+	{
+		"height": 46.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"ne",
+				"newton.py"
+			],
+			[
+				"t",
+				"test.py"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 210.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
